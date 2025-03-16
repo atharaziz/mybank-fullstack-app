@@ -1,4 +1,4 @@
-# My Fullstack Application. It is just an assignment
+# My Fullstack Application. It is just an assignment.
 
 This repository contains a Spring Boot backend and a React frontend.
 
@@ -23,8 +23,8 @@ The backend will be running at `http://localhost:8089`.
 4. Install dependencies:
    - `npm install`
 5. Build the application
-  - `npm run build`
-6. After the build is complete, navigate to the build directory (inside your project folder) containing the production-ready files.
+   - `npm run build`
+6. After completing the build, navigate to the build directory (inside your project folder) containing the production-ready files.
    - `cd build`
 7. Run the development server:
    - `http-server -p 3000`
