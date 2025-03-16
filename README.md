@@ -1,4 +1,4 @@
-# My Fullstack Application. It is just an assignment.
+# Fullstack Application. It is just an assignment.
 
 This repository contains a Spring Boot backend and a React frontend.
 
