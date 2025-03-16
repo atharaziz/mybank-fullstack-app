@@ -6,7 +6,7 @@ This repository contains a Spring Boot backend and a React frontend.
 
 1. Navigate to the `backend-spring-boot-app/` directory.
 2. Build the project using Maven:
-   - `mvn clean install` (for Maven)
+   - `mvn clean install`
 3. Run the application for Windows:
    - If Java is not installed, you can set the JAVA_HOME environment variable temporarily for the current Command Prompt session in Windows like this:
       1.	`set JAVA_HOME= C:\path\to\java17`
