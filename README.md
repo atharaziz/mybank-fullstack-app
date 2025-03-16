@@ -30,3 +30,10 @@ The backend will be running at `http://localhost:8089`.
    - `http-server -p 3000`
 
 The frontend will be running at `http://localhost:3000`.
+
+## Documentation
+   Navigate to the `docs` directory which includes the following documents:
+   1. Technical Specification Document
+   2. User Manual
+   3. Postman Collections for interacting with the REST APIs
+
